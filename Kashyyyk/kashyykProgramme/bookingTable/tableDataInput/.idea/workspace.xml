@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="tableDataInput" targetName="tableDataInput" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="14682ca2-4215-461f-b062-485cc6ebad38" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cmake-build-debug/.cmake/api/v1/reply/cache-v2-8452c0c82d574991224e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-70188b07ff68702bbe64.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-5d5c05156b0f3d3126c8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cmake-build-debug/.cmake/api/v1/reply/index-2023-11-03T10-21-09-0855.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cmake-build-debug/.cmake/api/v1/reply/target-Kashyyyk-Debug-a503fcb8b7aca260384a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-966a071b80f8f873b1a2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../main.c" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="2.2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2XfAu4hGhiTZFuKPc4uAYbO6zsP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tableDataInput" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tableDataInput" TARGET_NAME="tableDataInput" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tableDataInput" RUN_TARGET_NAME="tableDataInput">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14682ca2-4215-461f-b062-485cc6ebad38" name="Changes" comment="" />
+      <created>1699009979364</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699009979364</updated>
+      <workItem from="1699009980435" duration="80000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
