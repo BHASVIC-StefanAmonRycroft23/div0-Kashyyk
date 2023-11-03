@@ -1,0 +1,3 @@
+/Users/stefan/Documents/GitHub/div0-Kashyyk/Kashyyyk/cmake-build-debug/CMakeFiles/Kashyyyk.dir
+/Users/stefan/Documents/GitHub/div0-Kashyyk/Kashyyyk/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/stefan/Documents/GitHub/div0-Kashyyk/Kashyyyk/cmake-build-debug/CMakeFiles/rebuild_cache.dir
