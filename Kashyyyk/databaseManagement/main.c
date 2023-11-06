@@ -25,5 +25,5 @@ void roomDbRead(int room){
 }
 
 int roomDbCheck(){
-    
+
 }
