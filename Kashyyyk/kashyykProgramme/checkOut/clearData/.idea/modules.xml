@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/databaseManagement.iml" filepath="$PROJECT_DIR$/.idea/databaseManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/clearData.iml" filepath="$PROJECT_DIR$/.idea/clearData.iml" />
     </modules>
   </component>
 </project>
